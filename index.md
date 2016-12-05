@@ -24,3 +24,6 @@ tagline: Helping People Help Sea Turtles
 <h3>
   <a class="anchor" href="#" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Video: Tort and Joie’s video on balloons in the ocean (not cool)
 </h3>
+<hr />
+<p><img class="alignright" style="border: 0pt none;" src="{{ site.url }}{{ site.baseurl }}/assets/images/turtle_geek_logo_with_email.jpg" alt="TurtleGeek" width="397" height="348" border="0" /></p>
+
