@@ -12,7 +12,7 @@ title: MANIFEST
   <h2>ManifestInCradle downloads</h2>
   <h3>Installing NEW &#8211;OR&#8211; updating ManifestInCradle on the host machine:</h3>
   <ul>
-    <li>Installation package for the cradle/host computer &#8211;> <a href="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/ManifestInCradleSetup.exe">ManifestInCradleSetup.exe</a></li>
+    <li>Installation package for the cradle/host computer &#8211;> <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v1.2007.721.1-manifest">ManifestInCradleSetup.exe</a></li>
     <li>Right-click on the <b>ManifestInCradleSetup.exe</b> link and select &#8220;Save Target As&#8230;&#8221; (or &#8220;Save Link As&#8230;&#8221;) to the host computer, and then run the <b>ManifestInCradleSetup.exe</b> setup file.  Follow the installation wizard prompts on the host computer.</li>
   </ul>
   <p><b>NOTE:  MANIFEST (the host/cradle portion) requires the Microsoft .NET Framework 2.0 (or later).</b></p>
@@ -23,20 +23,20 @@ title: MANIFEST
   <p>		<b>NOTE:  MANIFEST (the host/cradle portion) requires Microsoft ActiveSync 4.5.</b></p>
   <ul>
     <li>To determine if your computer currently has Microsoft ActiveSync 4.5 installed, go to <i>Start > Settings > Control Panel > Add or Remove Programs</i> and look for a <b>Microsoft ActiveSync</b> entry.</li>
-    <li>If you do not see it, you can download it <a href="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/ActiveSync_4.5_setup.msi">here</a> (right-click on the link and select &#8220;Save Target As&#8230;&#8221; (or &#8220;Save Link As&#8230;&#8221;)).</li>
+    <li>If you do not see it, you can download it <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v1.2007.721.1-manifest">here</a> (right-click on the link and select &#8220;Save Target As&#8230;&#8221; (or &#8220;Save Link As&#8230;&#8221;)).</li>
   </ul>
   <hr />
   <h2>ManifestInHand downloads</h2>
   <h3>Updating ManifestInHand on an EXISTING handheld device:</h3>
   <ul>
-    <li>Latest ManifestInHand program file for the handheld device &#8211;> <a href="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/ManifestInHand.exe">ManifestInHand.exe</a></li>
+    <li>Latest ManifestInHand program file for the handheld device &#8211;> <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v1.2007.721.1-manifest">ManifestInHand.exe</a></li>
     <li>Right-click on the <b>ManifestInHand.exe</b> link and select &#8220;Save Target As&#8230;&#8221; (or &#8220;Save Link As&#8230;&#8221;) to the host computer.</li>
     <li>On the host computer, open up Microsoft ActiveSync, and then (with the handheld device connected) copy the ManifestInHand.exe from the host computer to the Program Files > ManifestInHand folder on handheld device; the idea is that you are replacing the file on the handheld device.</li>
   </ul>
   <hr />
   <h3>Installing ManifestInHand on a NEW handheld device:</h3>
   <ul>
-    <li>Installation package for the handheld device &#8211;> <a href="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/ManifestInHandSetup.msi">ManifestInHandSetup.msi</a></li>
+    <li>Installation package for the handheld device &#8211;> <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v1.2007.721.1-manifest">ManifestInHandSetup.msi</a></li>
     <li>Right-click on the <b>ManifestInHandSetup.msi</b> link and select &#8220;Save Target As&#8230;&#8221; (or &#8220;Save Link As&#8230;&#8221;) to the host computer, and then (with the handheld device connected) run the <b>ManifestInHandSetup.msi</b> setup file.  Follow the installation wizard prompts on the host computer and the handheld device.</li>
   </ul>
   <p>		<b>NOTE:  MANIFEST (the handheld portion) requires the Microsoft .NET Compact Framework 2.0 Service Pack 2 (or later) Redistributable.</b></p>
