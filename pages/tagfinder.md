@@ -50,7 +50,7 @@ title: TAGFINDER
     <li>Follow the installation wizard prompts on the host computer and the handheld device.</li>
   </ul>
   <hr />
-  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/images/tagfinder_main_screen.jpg" alt="" /></p>
-  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/images/tagfinder_post_search.jpg" alt="" /></p>
-  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/images/tagfinder_details.jpg" alt="" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/tagfinder_main_screen.jpg" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/tagfinder_post_search.jpg" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/manifest/tagfinder_details.jpg" /></p>
 </div>
