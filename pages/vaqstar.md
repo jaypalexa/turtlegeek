@@ -6,7 +6,7 @@ title: VAQSTAR
   <p><img style="margin: 0px 3px 3px 0px; display: inline; border: 0px;" src="{{ site.url }}{{ site.baseurl }}/assets/images/vaqstar.png" alt="VAQSTAR" width="32" height="32" align="left"/><b>VAQSTAR</b> (Virginia Aquarium Sea Turtle Attribute Repository) collects sea turtle stranding and necropsy data for the Virginia Aquarium and Marine Science Center.</p>
   <hr />
   <h2>VAQSTAR download</h2>
-  <p>VaqStarNet v1.2.5 &#8211;> <a href="http://www.TurtleGeek.com/vaqstar_bak/VaqStarNet_setup.exe">VaqStarNet_setup.exe</a></p>
+  <p>VaqStarNet v1.2.5 &#8211;> <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v1.2.5-vaqstar">VaqStarNet_setup.exe</a></p>
   <p>Right-click on the link above and choose &#8220;Save Target As&#8230;&#8221; to save the file to your local machine.</p>
   <p>You can then double-click on the <b>VaqStarNet_setup.exe</b> file on your local machine to launch the installation package.</p>
   <hr />
