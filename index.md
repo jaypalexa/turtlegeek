@@ -6,9 +6,11 @@ tagline: Helping People Help Sea Turtles
 <h3>
   <a class="anchor" href="{{ site.url }}{{ site.baseurl }}/pages/roster.html" aria-hidden="true">ROSTER<span aria-hidden="true" class="octicon octicon-link"></span></a> (Record Of Sea Turtles Electronic Reports) collects marine turtle and holding tank data required by the Florida Fish and Wildlife Conservation Commission (FWC). <strong><span style="color: #ff0000;">[OUT OF DATE]</span></strong>
 </h3>
+<!--
 <h3>
   <a class="anchor" href="{{ site.url }}{{ site.baseurl }}/pages/rosterweb.html" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link">ROSTERWEB</span></a> (Record Of Sea Turtles Electronic Reports – Web) is the web-based version of ROSTER. <strong><span style="color: #ff0000;">[PROOF OF CONCEPT ONLY]</span></strong>
 </h3>
+-->
 <h3>
   <a class="anchor" href="{{ site.url }}{{ site.baseurl }}/pages/manifest.html" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link">MANIFEST</span></a> collects nesting data for Mote Marine Laboratory’s Sea Turtle Conservation and Research Program. <strong><span style="color: #ff0000;">[OUT OF DATE]</span></strong>
 </h3>
