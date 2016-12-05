@@ -34,10 +34,10 @@ title: ROSTER
     <li>Turtle Tag Report</li>
   </ul>
   <hr />
-  <p>ROSTER was presented at the <b>Florida Keys Sea Turtle Workshop Weekend</b> at <a href="http://www.turtlehospital.org/">The Turtle Hospital</a> in Marathon Key, Florida, on December 2, 2006. Presentation slides available <a href="{{ site.url }}{{ site.baseurl }}/assets/ROSTER.ppt">here</a>.</p>
+  <p>ROSTER was presented at the <b>Florida Keys Sea Turtle Workshop Weekend</b> at <a href="http://www.turtlehospital.org/">The Turtle Hospital</a> in Marathon Key, Florida, on December 2, 2006. Presentation slides available <a href="{{ site.url }}{{ site.baseurl }}/assets/images/ROSTER.ppt">here</a>.</p>
   <hr />
   <h2>ROSTER downloads</h2>
-  <p>Download ROSTER version 2.2.2 <a href="{{ site.url }}{{ site.baseurl }}/assets/roster_setup_2_2_2.exe">here</a>.</p>
+  <p>Download ROSTER version 2.2.2 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/roster_setup_2_2_2.exe">here</a>.</p>
   <p><span style="color: red; font-weight: bold;">NOTE: </span>If you are running <b>Windows 7</b>, save the setup file to your machine, then right-click on it and select <i>Run as administrator</i> to install.</p>
   <hr />
   <p><span style="color: red; font-weight: bold;">NOTE: </span>ROSTER requires the Microsoft® .NET Framework 2.0<br />
