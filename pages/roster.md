@@ -37,7 +37,7 @@ title: ROSTER
   <p>ROSTER was presented at the <b>Florida Keys Sea Turtle Workshop Weekend</b> at <a href="http://www.turtlehospital.org/">The Turtle Hospital</a> in Marathon Key, Florida, on December 2, 2006. Presentation slides available <a href="{{ site.url }}{{ site.baseurl }}/assets/images/roster/ROSTER.ppt">here</a>.</p>
   <hr />
   <h2>ROSTER downloads</h2>
-  <p>Download ROSTER version 2.2.2 <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v2.2.2-roster">here</a>.</p>
+  <p>Download ROSTER version 2.2.3 <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v2.2.3-roster">here</a>.</p>
   <p><span style="color: red; font-weight: bold;">NOTE: </span>If you are running <b>Windows 7</b>, save the setup file to your machine, then right-click on it and select <i>Run as administrator</i> to install.</p>
   <hr />
   <p><span style="color: red; font-weight: bold;">NOTE: </span>ROSTER requires the Microsoft® .NET Framework 2.0<br />
