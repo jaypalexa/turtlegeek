@@ -37,11 +37,11 @@ title: ROSTER
   <p>ROSTER was presented at the <b>Florida Keys Sea Turtle Workshop Weekend</b> at <a href="http://www.turtlehospital.org/">The Turtle Hospital</a> in Marathon Key, Florida, on December 2, 2006. Presentation slides available <a href="{{ site.url }}{{ site.baseurl }}/assets/images/roster/ROSTER.ppt">here</a>.</p>
   <hr />
   <h2>ROSTER downloads</h2>
-  <p>Download ROSTER version 2.2.3 <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v2.2.3-roster">here</a>.</p>
-  <p><span style="color: red; font-weight: bold;">NOTE: </span>If you are running <b>Windows 7</b>, save the setup file to your machine, then right-click on it and select <i>Run as administrator</i> to install.</p>
+  <p>Download ROSTER version 2.2.4 <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v2.2.4-roster">here</a>.</p>
+  <p><span style="color: red; font-weight: bold;">NOTE: </span>If you are running <b>Windows 7 or later</b>, save the setup file to your machine, then right-click on it and select <i>Run as administrator</i> to install.</p>
   <hr />
-  <p><span style="color: red; font-weight: bold;">NOTE: </span>ROSTER requires the Microsoft® .NET Framework 2.0<br />
-    To determine if your computer currently has the Microsoft® .NET Framework 2.0 installed, go to <i>Start &gt; Settings &gt; Control Panel &gt; Add or Remove Programs</i> and look for a <b>Microsoft® .NET Framework 2.0</b> entry. If you do not see it, you can download it <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5&amp;displaylang=en"> here</a>.
+  <p><span style="color: red; font-weight: bold;">NOTE: </span>ROSTER requires the Microsoft® .NET Framework 4.6<br />
+    To determine if your computer currently has the Microsoft® .NET Framework 4.6 installed, go to <i>Start &gt; Settings &gt; Control Panel &gt; Add or Remove Programs</i> and look for a <b>Microsoft® .NET Framework 4.6</b> entry. If you do not see it, you can download it <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137"> here</a>.
   </p>
   <p><span style="font-size: x-small; font-weight: bold;">System Requirements</span></p>
   <table border="1">
@@ -49,20 +49,6 @@ title: ROSTER
       <tr>
         <td><span style="font-size: x-small; font-weight: bold;">Viewing, editing, and saving forms:</span></td>
         <td><span style="font-size: x-small;"><a href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe® Reader</a> 7.0 or later is required.</span></td>
-      </tr>
-      <tr>
-        <td><span style="font-size: x-small; font-weight: bold;">Supported Operating Systems:</span></td>
-        <td><span style="font-size: x-small;">Windows XP with Service Pack 2; Windows Server 2003; Windows Vista Business; Windows Vista Business 64-bit edition; Windows Vista Enterprise; Windows Vista Enterprise 64-bit edition; Windows Vista Home Basic; Windows Vista Home Basic 64-bit edition; Windows Vista Home Premium; Windows Vista Home Premium 64-bit edition; Windows Vista Starter; Windows Vista Ultimate; Windows Vista Ultimate 64-bit edition.</span></td>
-      </tr>
-      <tr>
-        <td><span style="font-size: x-small; font-weight: bold;">Required Software:</span></td>
-        <td><span style="font-size: x-small;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=889482fc-5f56-4a38-b838-de776fd4138c&amp;displaylang=en">Windows Installer 3.1</a> or later is recommended.<br />
-          You must also be running <a href="http://www.microsoft.com/windows/ie/downloads/default.mspx">Microsoft® Internet Explorer 5.01 or later</a> for all installations of the .NET Framework.</span>
-        </td>
-      </tr>
-      <tr>
-        <td><span style="font-size: x-small; font-weight: bold;">Disk Space Requirements:</span></td>
-        <td><span style="font-size: x-small;">280 MB</span></td>
       </tr>
     </tbody>
   </table>
