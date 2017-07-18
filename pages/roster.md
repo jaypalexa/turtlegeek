@@ -40,6 +40,8 @@ title: ROSTER
   <p>Download ROSTER version 2.2.4 <a href="https://github.com/jaypalexa/turtlegeek/releases/tag/v2.2.4-roster">here</a>.</p>
   <p><span style="color: red; font-weight: bold;">NOTE: </span>If you are running <b>Windows 7 or later</b>, save the setup file to your machine, then right-click on it and select <i>Run as administrator</i> to install.</p>
   <hr />
+  <p><span style="color: red; font-weight: bold;">NOTE: </span>You must have permissions to be able to write to the folder where ROSTER is installed (or be able to run the ROSTER application via <i>Run as administrator</i>).  This is necessary because the application configuration file (which constains the database connection string) is written to in the installation folder and the report .pdf files are created in the installation folder.  Ideally this should be changed so that a non-administrator user can use the application.</p>
+  <hr />
   <p><span style="color: red; font-weight: bold;">NOTE: </span>ROSTER requires the Microsoft® .NET Framework 4.6<br />
     To determine if your computer currently has the Microsoft® .NET Framework 4.6 installed, go to <i>Start &gt; Settings &gt; Control Panel &gt; Add or Remove Programs</i> and look for a <b>Microsoft® .NET Framework 4.6</b> entry. If you do not see it, you can download it <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137"> here</a>.
   </p>
