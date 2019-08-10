@@ -5,6 +5,13 @@ img.is-256x256 {
 
 .card {
 	display: inline-block;
+	height: 600px;
+	margin: 6px;
 	max-width: 256px;
 	vertical-align: top;
+}
+
+.card-content .content {
+	height: 480px;
+	overflow-y: auto;
 }
