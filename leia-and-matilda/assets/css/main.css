@@ -2,3 +2,9 @@ img.is-256x256 {
 	height: 256px;
 	width: 256px;
 }
+
+.card {
+	display: inline-block;
+	max-width: 256px;
+	vertical-align: top;
+}
