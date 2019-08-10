@@ -11,7 +11,7 @@ img.is-256x256 {
 }
 
 .card-content {
-	height: 384px;
+	height: 320px;
 	overflow-y: auto;
 }
 
