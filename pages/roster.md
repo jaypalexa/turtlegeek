@@ -128,4 +128,26 @@ title: ROSTER
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/roster/about_box.jpg" /></p>
   <hr />
   <a href="https://roster.turtlegeek.com/">Web POC</a>
+  <hr />
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Beach Restoration Project Monitoring.pdf">Beach Restoration Project Monitoring.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Disorientation Incident Report form directions.pdf">Disorientation Incident Report form directions.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Disorientation Incident Report form.pdf">Disorientation Incident Report form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Educational Presentation form.pdf">Educational Presentation form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Captive Facility Quarterly Report For Hatchlings.pdf">Marine Turtle Captive Facility Quarterly Report For Hatchlings.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Captive Facility Quarterly Report For Washbacks.pdf">Marine Turtle Captive Facility Quarterly Report For Washbacks.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Holding Facility Quarterly Report Page 1.pdf">Marine Turtle Holding Facility Quarterly Report Page 1.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Holding Facility Quarterly Report Page 2.pdf">Marine Turtle Holding Facility Quarterly Report Page 2.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Holding Facility Quarterly Report Page 3.pdf">Marine Turtle Holding Facility Quarterly Report Page 3.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Marine Turtle Holding Facility Quarterly Report.pdf">Marine Turtle Holding Facility Quarterly Report.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Necropsy form.pdf">Necropsy form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Nighttime Public Hatchling Release form.pdf">Nighttime Public Hatchling Release form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Obstructed Nesting Attempt Report form directions.pdf">Obstructed Nesting Attempt Report form directions.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Obstructed Nesting Attempt Report form.pdf">Obstructed Nesting Attempt Report form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Papilloma form.pdf">Papilloma form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Public Turtle Watch Schedule form.pdf">Public Turtle Watch Schedule form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Public Turtle Watch Summary form.pdf">Public Turtle Watch Summary form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Stranding and Salvage form.pdf">Stranding and Salvage form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Tag Request form.pdf">Tag Request form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Tagging Data form.pdf">Tagging Data form.pdf</a></p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Turtle Transfer form.pdf">Turtle Transfer form.pdf</a></p>
 </div>
