@@ -3,6 +3,8 @@ layout: default
 title: ROSTER
 ---
 <div class="story-content">
+  <a href="https://roster.turtlegeek.com/">Web POC</a>
+  <hr />
   <p><img style="margin: 0px 3px 3px 0px; display: inline; border: 0px;" src="{{ site.url }}{{ site.baseurl }}/assets/images/roster.png" alt="ROSTER" width="32" height="32" align="left" /><b>ROSTER</b> (Record of Sea Turtles Electronic Reports) is a computer program designed to facilitate the collection of marine turtle and holding tank data required by the <a href="http://myfwc.com/research/wildlife/sea-turtles/">Florida Fish and Wildlife Conservation Commission (FWC)</a>.</p>
   <p>Sea turtle rehabilitation centers, hospitals, educational centers, and other facilities in the state of Florida that hold sea turtles are required to submit quarterly reports about their sea turtles and holding tanks. ROSTER can be used to gather and store information about the turtles and tanks, and that data can be used to populate the FWC reports.</p>
   <p>ROSTER supports full data collection and report generation functionality for the following reports:</p>
@@ -126,8 +128,6 @@ title: ROSTER
   <hr />
   <h4>About Roster screen:</h4>
   <p><img src="{{ site.url }}{{ site.baseurl }}/assets/images/roster/about_box.jpg" /></p>
-  <hr />
-  <a href="https://roster.turtlegeek.com/">Web POC</a>
   <hr />
   <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Beach Restoration Project Monitoring.pdf">Beach Restoration Project Monitoring.pdf</a></p>
   <p><a href="{{ site.url }}{{ site.baseurl }}/pdf/roster/Disorientation Incident Report form directions.pdf">Disorientation Incident Report form directions.pdf</a></p>
