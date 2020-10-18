@@ -1,6 +1,6 @@
 /*global document: false, jQuery: false */
 (function ($) {
-    "use strict";
+    "use strict"; 
     $.fn.DoucheBingo = function () {
         var usedNums = new Array(16),
         me = {
@@ -44,6 +44,7 @@
                     "HUDDLED-UP",
                     "IN TANDEM",
                     "IN THE INTERESTS OF TIME",
+					"ITERATE",
                     "JOIN THE DOTS",
                     "JOURNEY",
                     "MACRO",
