@@ -22,7 +22,6 @@
 		<hr />
 		<span>Valid Words:</span>
 		<p id="validWords">
-			<!-- <span>Valid words:</span><span id="validWords"></span> -->
 		</p>
 	</form>
 </body>
@@ -34,12 +33,11 @@
 
 		var validWords = words
 			.filter(word => 
-			word.length >= minLength 
-			&& word.includes(centerLetter)
-			&& word.split('').every(letter => validLetters.includes(letter))
+				word.length >= minLength 
+				&& word.includes(centerLetter)
+				&& word.split('').every(letter => validLetters.includes(letter))
 		  ).sort();
 		  
-		//document.getElementById('validWords').innerHTML = validWords.join(', ');
 		var html = '<table>';
 		validWords.forEach(word => html += `<tr><td>${word}</td></tr>`);
 		html += '</table>';
