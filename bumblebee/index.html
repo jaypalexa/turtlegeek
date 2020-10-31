@@ -9,8 +9,8 @@
 			<input type="text" name="centerLetter" maxlength="1" />
 		</p>
 		<p>
-			<span>All letters:</span>
-			<input type="text" name="validLetters" maxlength="7" />
+			<span>Other letters:</span>
+			<input type="text" name="otherLetters" maxlength="6" />
 		</p>
 		<p>
 			<span>Minimum length:</span>
@@ -29,13 +29,13 @@
 	function findValidWords() {
 		var minLength = parseInt(document.finder.minLength.value);
 		var centerLetter = document.finder.centerLetter.value.toLowerCase();
-		var validLetters = document.finder.validLetters.value.toLowerCase();
+		var otherLetters = document.finder.otherLetters.value.toLowerCase();
 
 		var validWords = words
 			.filter(word => 
 				word.length >= minLength 
 				&& word.includes(centerLetter)
-				&& word.split('').every(letter => validLetters.includes(letter))
+				&& word.split('').every(letter => otherLetters.includes(letter))
 		  ).sort();
 		  
 		var html = '<table>';
