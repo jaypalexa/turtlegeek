@@ -30,12 +30,13 @@
 		var minLength = parseInt(document.finder.minLength.value);
 		var centerLetter = document.finder.centerLetter.value.toLowerCase();
 		var otherLetters = document.finder.otherLetters.value.toLowerCase();
+		var allLetters = centerLetter.concat(otherLetters);
 
 		var validWords = words
 			.filter(word => 
 				word.length >= minLength 
 				&& word.includes(centerLetter)
-				&& word.split('').every(letter => otherLetters.includes(letter))
+				&& word.split('').every(letter => allLetters.includes(letter))
 		  ).sort();
 		  
 		var html = '<table>';
